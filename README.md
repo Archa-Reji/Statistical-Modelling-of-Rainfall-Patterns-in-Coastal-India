@@ -1,0 +1,2 @@
+# Statistical-Modelling-of-Rainfall-Patterns-in-Coastal-India
+This repository offers statistical modeling of rainfall patterns of two towns located in coastal India. This project compares rainfall patterns in Kuttanad on the windward side of Western Ghats with Ramanthapuram on the leeward side. Probability distribution functions fit 40 years of NASA rainfall data and estimate extreme event return periods
